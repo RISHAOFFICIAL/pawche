@@ -1,0 +1,147 @@
+{
+  "homepage": {
+    "title": "Pawch\u00e9 | Luxury Dog Accessories & Designer Dog Clothing",
+    "description": "Elevate your dog's lifestyle with Pawch\u00e9. Discover high-end pet accessories, designer dog clothing, luxury beds, and exclusive jewelry. Your dog lives for luxury too.",
+    "keywords": "luxury dog accessories, designer dog clothing, high-end pet lifestyle, luxury dog beds, dog jewelry, luxury pet brand, designer pet accessories"
+  },
+  "collections": {
+    "the_wardrobe": {
+      "title": "Designer Dog Clothing & Couture Outfits | Pawch\u00e9 The Wardrobe",
+      "description": "Shop the latest in designer dog clothing. From couture outfits to streetwear, find the perfect look for your stylish companion. Editorial-ready fashion for dogs.",
+      "keywords": "designer dog clothing, couture dog outfits, luxury dog fashion, streetwear for dogs"
+    },
+    "the_vault": {
+      "title": "Exclusive Dog Jewelry & Designer Collars | The Vault by Pawch\u00e9",
+      "description": "Discover the pinnacle of canine opulence in The Vault. Crystal-encrusted collars, gold-tone jewelry, and rare statement pieces for the dog who has everything.",
+      "keywords": "dog jewelry, designer dog collars, gold dog jewelry, crystal dog collars, luxury pet accessories"
+    },
+    "the_penthouse_suite": {
+      "title": "Luxury Dog Beds & Designer Pet Furniture | The Penthouse Suite",
+      "description": "Experience the ultimate in comfort with luxury dog beds and designer furniture. Velvet loungers and premium crates that complement your high-end home decor.",
+      "keywords": "luxury dog beds, designer pet furniture, high-end dog crates, velvet dog loungers"
+    },
+    "the_getaway": {
+      "title": "High-End Dog Carriers & Luxury Travel Bags | The Getaway",
+      "description": "Travel in style with high-end dog carriers and luxury travel accessories. Airline-approved totes and car seat covers for the sophisticated pet traveler.",
+      "keywords": "high-end dog carriers, luxury pet travel bags, designer dog totes, travel accessories for dogs"
+    },
+    "bowls_kitchen": {
+      "title": "Designer Dog Bowls & Luxury Feeding Stations | Bowls & Kitchen",
+      "description": "Elevated dining for pets. Explore designer dog bowls, marble feeding stations, and crystal water fountains. Because every meal should be a luxury event.",
+      "keywords": "designer dog bowls, luxury pet feeding stations, marble dog bowls, elevated dog feeders"
+    },
+    "the_spa": {
+      "title": "Premium Dog Grooming Kits & Luxury Spa Products | The Spa",
+      "description": "Pamper your pet with premium grooming kits and luxury spa products. Aromatherapy shampoos, silk robes, and high-end care for the refined dog.",
+      "keywords": "premium dog grooming, luxury dog spa products, dog aromatherapy, luxury pet care"
+    },
+    "the_accessory_bar": {
+      "title": "Designer Dog Collars, Leashes & Harnesses | The Accessory Bar",
+      "description": "Find the perfect finishing touches with designer collars, leashes, and harnesses. Luxury dog sunglasses, hats, and silk bandanas for a life lived beautifully.",
+      "keywords": "designer dog leashes, luxury dog harnesses, dog sunglasses, designer pet bandanas"
+    },
+    "the_sleep_suite": {
+      "title": "Plush Dog Beds & Luxury Sleeping Accessories | The Sleep Suite",
+      "description": "Indulge your pet with plush beds and orthopedic luxury mattresses. Silk-lined sleeping accessories designed for the ultimate beauty rest.",
+      "keywords": "plush dog beds, orthopedic luxury dog mattresses, silk dog blankets, luxury pet sleep accessories"
+    }
+  },
+  "product_template": {
+    "title": "[Product Name] | [Luxury Category] | Pawch\u00e9",
+    "description": "Elevate your dog's style with the [Product Name]. This [Luxury Category] piece from Pawch\u00e9 combines high-end fashion with premium comfort. Perfect for the dog that lives for luxury. Shop now."
+  },
+  "product_alt_tags": {
+    "The Heirloom Pearl & Diamond Gala Collar": "The Heirloom Pearl & Diamond Gala Collar - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Bespoke Signature Gilded ID Collar": "The Bespoke Signature Gilded ID Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Jardin Royale Floral Fleece Gilet": "The Jardin Royale Floral Fleece Gilet - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Artisan Custom-Engraved Obsidian Collar": "The Artisan Custom-Engraved Obsidian Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Avant-Garde Punk Studded Harness": "The Avant-Garde Punk Studded Harness - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Bordeaux Velvet Gala Collar & Leash": "The Bordeaux Velvet Gala Collar & Leash - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Alpine Cashmere-Touch Winter Knit": "The Alpine Cashmere-Touch Winter Knit - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Silk Road Equestrian Print Scarf": "The Silk Road Equestrian Print Scarf - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Monogram Elite Designer Dog Hoodie": "The Monogram Elite Designer Dog Hoodie - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Palais Royale Velvet Bow Tie": "The Palais Royale Velvet Bow Tie - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Sovereign Velvet Crown Lounger": "The Sovereign Velvet Crown Lounger - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Chalet Fleece Sanctuary Bed": "The Chalet Fleece Sanctuary Bed - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Versailles Gilded Velvet Dog Throne": "The Versailles Gilded Velvet Dog Throne - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Palazzo Long-Plush Square Lounger": "The Palazzo Long-Plush Square Lounger - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Signature Minimalist Slate Pet Sofa": "The Signature Minimalist Slate Pet Sofa - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Penthouse Plush XL Sectional Bed": "The Penthouse Plush XL Sectional Bed - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Professional Gold-Tipped Slicker Brush": "The Professional Gold-Tipped Slicker Brush - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Waterproof Suede Protective Sofa Cover": "The Waterproof Suede Protective Sofa Cover - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Penthouse Silk-Lined Canine Throw": "The Penthouse Silk-Lined Canine Throw - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Equestrian Bone-Stitched Leather Collar": "The Equestrian Bone-Stitched Leather Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The All-Season Velvet Deep-Sleep Cushion": "The All-Season Velvet Deep-Sleep Cushion - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Monogram Signature Travel Tote": "The Monogram Signature Travel Tote - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Mayfair British Style Airline Tote": "The Mayfair British Style Airline Tote - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Explorer Plush Chest-Pack Carrier": "The Explorer Plush Chest-Pack Carrier - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Canine-Chic PU Leather Crossbody Bag": "The Canine-Chic PU Leather Crossbody Bag - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The First-Class Space Trolley Explorer": "The First-Class Space Trolley Explorer - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Summit Performance Mesh Backpack": "The Summit Performance Mesh Backpack - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Continental Premium Leather Travel Tote": "The Continental Premium Leather Travel Tote - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Avenue Quilted Leather Carrier": "The Avenue Quilted Leather Carrier - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Urban Nomad Shoulder Carrying Handbag": "The Urban Nomad Shoulder Carrying Handbag - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Voyager High-Capacity Mesh Trekker": "The Voyager High-Capacity Mesh Trekker - The Getaway - Pawch\u00e9 Luxury Pet Accessories",
+    "The Grand Tour Expandable Rolling Suite": "The Grand Tour Expandable Rolling Suite - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Jetsetter EVA Foldable Travel Suite": "The Jetsetter EVA Foldable Travel Suite - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Imperial Honey-Agate & Pearl Pendant": "The Imperial Honey-Agate & Pearl Pendant - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Jade & Freshwater Pearl Heirloom Set": "The Jade & Freshwater Pearl Heirloom Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Golden Bee Water-Drop Jewelry Suite": "The Golden Bee Water-Drop Jewelry Suite - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Sterling Companion Keepsake Charm": "The Sterling Companion Keepsake Charm - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Butterfly & Heart Sterling Bead Collection": "The Butterfly & Heart Sterling Bead Collection - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Parisian Elite Pendant & Earring Set": "The Parisian Elite Pendant & Earring Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Royal Wedding Diamond-Style Jewelry Suite": "The Royal Wedding Diamond-Style Jewelry Suite - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Chandelier Crystal Bridal Choker Set": "The Chandelier Crystal Bridal Choker Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Obsidian & Emerald 6-Row Grand Necklace": "The Obsidian & Emerald 6-Row Grand Necklace - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Midnight Radiant Moissanite Solitaire": "The Midnight Radiant Moissanite Solitaire - The Vault - Pawch\u00e9 Luxury Pet Accessories",
+    "The Tribal Opulence Multi-Layer Statement Set": "The Tribal Opulence Multi-Layer Statement Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Serenity Striped Velvet Orthopedic Mat": "The Serenity Striped Velvet Orthopedic Mat - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Cloud-Cuddle Plush Deep-Sleep Nest": "The Cloud-Cuddle Plush Deep-Sleep Nest - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Zenith Super-Soft Marshmallow Bed": "The Zenith Super-Soft Marshmallow Bed - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Arctic Plush Winter Snuggle Nest": "The Arctic Plush Winter Snuggle Nest - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Hermitage Rabbit-Fur Orthopedic Mattress": "The Hermitage Rabbit-Fur Orthopedic Mattress - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Obsidian Non-Slip Sofa Wellness Mat": "The Obsidian Non-Slip Sofa Wellness Mat - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Regent Egg-Sponge Orthopedic Suite": "The Regent Egg-Sponge Orthopedic Suite - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Onyx Bite-Resistant Luxury Plush Bed": "The Onyx Bite-Resistant Luxury Plush Bed - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Pavilion Elevated All-Season Daybed": "The Pavilion Elevated All-Season Daybed - The Penthouse Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Nordic Rectangular Plush Sanctuary": "The Nordic Rectangular Plush Sanctuary - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Ritz Quick-Dry Microfiber Spa Robe": "The Ritz Quick-Dry Microfiber Spa Robe - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Waldorf Plush Terry Spa Bathrobe": "The Waldorf Plush Terry Spa Bathrobe - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Savoy Hooded Wearable Spa Robe": "The Savoy Hooded Wearable Spa Robe - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Baby-Plush Hooded Puppy Spa Wrap": "The Baby-Plush Hooded Puppy Spa Wrap - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Signature Pastel Microfiber Spa Collection": "The Signature Pastel Microfiber Spa Collection - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Adjustable Gilded-Trim Spa Bathrobe": "The Adjustable Gilded-Trim Spa Bathrobe - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Express-Dry Luxury Pet Washrobe": "The Express-Dry Luxury Pet Washrobe - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Skin-Friendly Absorbent Ritual Towel": "The Skin-Friendly Absorbent Ritual Towel - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Elite Velvet-Touch Quick-Dry Spa Wrap": "The Elite Velvet-Touch Quick-Dry Spa Wrap - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Spa-Day Plush Slipper Set (Canine Edition)": "The Spa-Day Plush Slipper Set (Canine Edition) - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The High-Density Microfiber After-Bath Suit": "The High-Density Microfiber After-Bath Suit - The Spa - Pawch\u00e9 Luxury Pet Accessories",
+    "The Silk-Touch Wellness Sleep Mask": "The Silk-Touch Wellness Sleep Mask - The Sleep Suite - Pawch\u00e9 Luxury Pet Accessories",
+    "The Sterling Gilded Leather Harness Suite": "The Sterling Gilded Leather Harness Suite - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Gladiator Studded Leather Trinity Set": "The Gladiator Studded Leather Trinity Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Heritage Hand-Stitched Leather Set": "The Heritage Hand-Stitched Leather Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Executive Genuine Nappa Leather Suite": "The Executive Genuine Nappa Leather Suite - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Manhattan Nylon & Leather Fusion Set": "The Manhattan Nylon & Leather Fusion Set - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Imperial Wide-Band Riveted Leather Collar": "The Imperial Wide-Band Riveted Leather Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Vintage Double-D Heritage Leather Collar": "The Vintage Double-D Heritage Leather Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Rock-Star Spiked Obsidian Leather Collar": "The Rock-Star Spiked Obsidian Leather Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Comfort-Cushion Padded Nappa Collar": "The Comfort-Cushion Padded Nappa Collar - The Accessory Bar - Pawch\u00e9 Luxury Pet Accessories",
+    "The Signature Padded Leather Walking Set": "The Signature Padded Leather Walking Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Visionary Smart Refresh Station": "The Visionary Smart Refresh Station - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Brasserie Stainless Dining Set": "The Brasserie Stainless Dining Set - The Wardrobe - Pawch\u00e9 Luxury Pet Accessories",
+    "The Zenith Bamboo Dining Pavilion": "The Zenith Bamboo Dining Pavilion - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Crystalline Hydration Sanctuary": "The Crystalline Hydration Sanctuary - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Carrara Ceramic Dining Pavilion": "The Carrara Ceramic Dining Pavilion - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Floating Reservoir Dining Suite": "The Floating Reservoir Dining Suite - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Gilded Bespoke Dining Chalice": "The Gilded Bespoke Dining Chalice - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Cascade Stainless Hydration System": "The Cascade Stainless Hydration System - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Indestructible Elevated Dining Suite": "The Indestructible Elevated Dining Suite - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Sovereign Automatic Hydration Fountain": "The Sovereign Automatic Hydration Fountain - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories",
+    "The Epicurean Smart Dining Station": "The Epicurean Smart Dining Station - Bowls & Kitchen - Pawch\u00e9 Luxury Pet Accessories"
+  },
+  "brand_alt_tags": {
+    "logo": "Pawch\u00e9 Luxury Pet Lifestyle Brand Logo - Gold and Black",
+    "homepage_hero": "Designer dog in luxury clothing lounging in a high-end penthouse suite",
+    "about_us_hero": "The vision of Pawch\u00e9 - Luxury canine fashion and high-end lifestyle"
+  }
+}

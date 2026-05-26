@@ -1,0 +1,59 @@
+{
+  "about_us": {
+    "title": "Our Story",
+    "content": "Welcome to Pawch\u00e9, where the canine lifestyle meets high-fashion. We believe that true luxury isn't just for you\u2014it\u2019s for your most loyal companion too. Inspired by the sophistication of the world's most iconic fashion houses, Pawch\u00e9 was born from a simple realization: your dog lives for luxury too.\n\nOur curated collection features only the most exquisite pieces, from designer couture and gold-toned jewelry to velvet loungers and marble feeding stations. We don't just sell pet products; we provide a lifestyle upgrade for the dog that deserves everything.\n\nEvery item in The Vault, The Wardrobe, and beyond is selected for its superior craftsmanship and timeless aesthetic. With a palette of deep obsidian and radiant gold, Pawch\u00e9 is more than a brand\u2014it's a statement.\n\nWelcome to the club. Your dog has been waiting."
+  },
+  "collections": {
+    "the_wardrobe": {
+      "title": "The Wardrobe",
+      "description": "Editorial-ready couture for the discerning canine. From streetwear-inspired sets to formal gala-ready gowns, The Wardrobe ensures your dog is the best-dressed in any room. Discover fashion that bridges the gap between the runway and the park."
+    },
+    "the_penthouse_suite": {
+      "title": "The Penthouse Suite",
+      "description": "Elevate your home with canine furniture that doubles as art. The Penthouse Suite features velvet loungers, designer crates, and statement pieces designed to blend seamlessly with the most sophisticated interiors. Luxury living starts at floor level."
+    },
+    "the_getaway": {
+      "title": "The Getaway",
+      "description": "Travel in unparalleled style. Whether it\u2019s a cross-continental flight or a weekend escape, our high-end carriers and travel sets ensure your pet arrives refreshed and refined. The world is their runway\u2014take them there in comfort."
+    },
+    "the_vault": {
+      "title": "The Vault",
+      "description": "The pinnacle of canine opulence. The Vault houses our most exclusive accessories, featuring crystal-encrusted collars, gold-toned statement pieces, and rare jewelry. These are not mere accessories; they are investments in elegance."
+    },
+    "the_sleep_suite": {
+      "title": "The Sleep Suite",
+      "description": "Indulge in the art of the nap. The Sleep Suite offers silk-lined bedding, orthopedic luxury mattresses, and plush sleep masks designed for the dog who takes their beauty rest seriously. Sweet dreams, reimagined."
+    },
+    "the_spa": {
+      "title": "The Spa",
+      "description": "Rituals of relaxation for the pampered pet. Our Spa collection features premium grooming kits, aromatherapy-infused shampoos, and plush robes. Transform routine maintenance into a five-star sensory experience."
+    },
+    "the_accessory_bar": {
+      "title": "The Accessory Bar",
+      "description": "The finishing touches that make the look. From designer leashes and harnesses to silk bandanas and canine sunglasses, The Accessory Bar provides the essential details for a life lived beautifully."
+    },
+    "bowls_kitchen": {
+      "title": "Bowls & Kitchen",
+      "description": "Fine dining for the four-legged epicurean. Explore feeding stations crafted from marble, gold-finished bowls, and crystal water fountains. Because every meal should be a celebrated event."
+    }
+  },
+  "welcome_popup": {
+    "title": "Join The Club",
+    "subtitle": "10% off your first order. Because your dog deserves the best."
+  },
+  "announcement_bar": [
+    "Free shipping on all orders over $75",
+    "New arrivals have landed. Shop The Wardrobe.",
+    "Pawch\u00e9: Because your dog lives for luxury too."
+  ],
+  "contact_info": {
+    "support": "support@pawche.store",
+    "privacy": "privacy@pawche.store",
+    "legal": "legal@pawche.store"
+  },
+  "brand_essence": {
+    "tagline": "Your Dog Lives for Luxury Too.",
+    "mission": "To provide a 'Gucci-level' boutique experience for pets and their owners.",
+    "vision": "To become the leading digital-first luxury pet atelier globally."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "welcome_series": [
+    {
+      "trigger": "Immediate after signup",
+      "subject": "Welcome to the Inner Circle | Pawché",
+      "preview_text": "Your dog lives for luxury too. Welcome to The Club.",
+      "body_html": "<h1>The Sovereign Standard of Canine Living</h1><p>Welcome to Pawché. You have entered a realm where canine lifestyle meets high-fashion editorial excellence. We are delighted to have you and your companion as members of <strong>The Club</strong>.</p><p>At Pawché, we believe that true luxury isn't just for owners—it’s for our most loyal heirs too. From the obsidian hues of <em>The Wardrobe</em> to the radiant gold of <em>The Vault</em>, every piece in our collection is curated for those who demand the best.</p><p>As a token of our appreciation for joining the Inner Circle, please enjoy 10% off your first acquisition.</p><p style='text-align: center;'><strong>CODE: CLUB10</strong></p><p>Explore our latest arrivals and begin your journey into a life lived beautifully.</p><p><a href='https://pawche.store'>Explore the Collections</a></p>"
+    },
+    {
+      "trigger": "48 hours after signup",
+      "subject": "Curating a Life of Opulence",
+      "preview_text": "Discover the art of the acquisition with The Vault.",
+      "body_html": "<h1>The Art of the Acquisition</h1><p>A life of luxury is defined by the details. Today, we invite you to explore <strong>The Vault</strong>—our most exclusive curated range of dog jewelry and statement collars.</p><p>Whether it's a crystal-encrusted gala collar or a gold-tone heirloom pendant, these pieces are designed to turn every promenade into a celebrated event.</p><p><em>Featured Collections:</em><br>• The Wardrobe: Couture Tailoring<br>• The Penthouse Suite: Architectural Rest<br>• The Spa: Rituals of Restoration</p><p><a href='https://pawche.store/collections/the-vault'>Step Into The Vault</a></p>"
+    }
+  ],
+  "abandoned_cart": [
+    {
+      "trigger": "1 hour after abandonment",
+      "subject": "A Moment of Pause",
+      "preview_text": "Your selection awaits its rightful home.",
+      "body_html": "<h1>A Moment of Pause</h1><p>Excellence should never be left behind. We noticed you were admiring a few pieces from our latest collection.</p><p>Your selection is currently held in your private suite, but our limited-edition pieces move quickly among the Inner Circle. Ensure your companion doesn't miss out on their next luxury essential.</p><p><a href='https://pawche.store/cart'>Return to Your Suite</a></p>"
+    },
+    {
+      "trigger": "24 hours after abandonment",
+      "subject": "Your Companion is Waiting",
+      "preview_text": "Because they deserve nothing less than Pawché.",
+      "body_html": "<h1>Heirs of Elegance</h1><p>At Pawché, we understand that style is a secondary language for our pets. Don't let your companion settle for anything less than the sovereign standard.</p><p>Your cart is still available, featuring the pieces that caught your eye. Complete your acquisition today and elevate your dog's lifestyle to the height of fashion.</p><p><a href='https://pawche.store/cart'>Complete Your Order</a></p>"
+    },
+    {
+      "trigger": "72 hours after abandonment",
+      "subject": "A Final Invitation | 5% Complimentary",
+      "preview_text": "A token of our appreciation for your discerning taste.",
+      "body_html": "<h1>A Final Invitation</h1><p>We remain convinced that your selection was a masterclass in taste. To assist you in bringing these pieces home, we are pleased to offer a complimentary 5% discount on your order.</p><p style='text-align: center;'><strong>CODE: LUXE5</strong></p><p>This invitation expires in 24 hours. We look forward to welcoming your companion to the world of Pawché luxury.</p><p><a href='https://pawche.store/cart'>Claim Your Token</a></p>"
+    }
+  ],
+  "post_purchase": {
+    "trigger": "Immediately after purchase",
+    "subject": "A Celebrated Event: Your Order is Confirmed",
+    "preview_text": "Welcome to the world of Pawché. Your dog thanks you.",
+    "body_html": "<h1>Excellence Confirmed</h1><p>Thank you for choosing Pawché. Your acquisition is more than a purchase—it is a commitment to a lifestyle of opulence and aesthetic brilliance.</p><p>Our concierge team is now preparing your items. Please allow 1-3 business days for processing as we ensure every detail meets our golden standard. Once dispatched, you will receive a tracking number to monitor your order's journey (typically 5-10 business days).</p><p>We invite you to share your Pawché moment on Instagram or TikTok and tag <strong>@pawche</strong>. We love seeing our pieces in their new homes.</p><p>Welcome to the family.</p>"
+  },
+  "back_in_stock": {
+    "trigger": "Product restocked",
+    "subject": "A Rare Return: [Product Name] is Back",
+    "preview_text": "Your wait for excellence is over.",
+    "body_html": "<h1>The Wait is Over</h1><p>Distinguished members of the Inner Circle have been waiting for this moment. We are pleased to announce that <strong>[Product Name]</strong> has returned to the atelier.</p><p>As you know, our most striking pieces are often claimed quickly. We recommend securing your acquisition immediately to ensure your companion's collection remains complete.</p><p><a href='[Product URL]'>Acquire Now</a></p>"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "ad_campaign": "Pawché Launch - Obsidian & Gold",
+  "primary_copy_variations": [
+    {
+      "theme": "The Standard of Luxury",
+      "copy": "Luxury isn't just for the owners. At Pawché, we believe every dog deserves a sovereign standard of living. From couture pieces in The Wardrobe to heirloom jewelry in The Vault, elevate your companion’s world to the level of your own. Experience the collection at pawche.store."
+    },
+    {
+      "theme": "The Vault Exclusivity",
+      "copy": "Pure gold-tone accents. Hand-selected crystals. Architectural design. The Vault at Pawché is not a collection—it’s a statement of status. For the dog who demands more than the ordinary, offer them the extraordinary. Shop the Atelier today."
+    },
+    {
+      "theme": "Couture Lifestyle",
+      "copy": "Your dog lives for luxury, too. Introducing The Wardrobe by Pawché: editorial-grade fashion for the modern canine. Designed in Obsidian and Gold, our couture pieces are crafted for the spotlight. Don't just dress them. Enshrine them."
+    },
+    {
+      "theme": "Emotional Connection (Aspirational)",
+      "copy": "They are more than family. They are your greatest companions. Reflect their inner royalty with a brand that understands the true meaning of pet luxury. Pawché: because the finest things in life should be shared. Explore our curated collections."
+    },
+    {
+      "theme": "Direct/Urgency (Luxury Tone)",
+      "copy": "Rare. Refined. Returning to the Atelier. Limited pieces from our latest curation are now available. Ensure your companion stands out in the sovereign standard of Pawché. Visit pawche.store before the collection is claimed."
+    }
+  ],
+  "headlines": [
+    "Your Dog Lives for Luxury, Too.",
+    "The Sovereign Standard of Pet Fashion.",
+    "A Statement of Status. For Your Best Friend.",
+    "Obsidian & Gold: The New Language of Pet Luxury.",
+    "From The Vault: Pieces That Define Elegance."
+  ],
+  "tiktok_scripts": [
+    {
+      "title": "The Obsidian Reveal",
+      "visuals": "Slow-motion, high-contrast shots of a black Doberman or Great Dane in a dark studio. Golden light catches a collar from 'The Vault'. No sound except a deep, rhythmic bass line.",
+      "text_overlay": ["Luxury is quiet.", "The Vault by Pawché.", "Your Dog Lives for Luxury, Too."],
+      "hook": "Close-up on a gold-plated buckle snapping shut."
+    },
+    {
+      "title": "A Day in the Life (Pawché Edition)",
+      "visuals": "A cinematic montage of an urban high-rise morning. An owner puts on a designer watch; then puts a Pawché couture harness on their dog. Walking through a luxury lobby. The gold hardware on the leash glinting in the sun.",
+      "text_overlay": ["Morning Rituals.", "Matching Your Standard.", "Pawché: The Wardrobe."],
+      "hook": "Owner's hand and dog's paw side-by-side on a marble floor."
+    },
+    {
+      "title": "The Craftsmanship Detail",
+      "visuals": "Extreme macro shots of stitching on a velvet bed, the weight of a gold-tone bowl, and the texture of a silk-lined coat. ASMR sounds of fabric and metal.",
+      "text_overlay": ["Architectural Precision.", "Hand-Selected Materials.", "The Penthouse Suite."],
+      "hook": "The sound of a heavy gold bowl being placed on a marble floor."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "brand": "Pawché",
+  "philosophy": "We do not provide 'customer support'; we provide 'Concierge Services'. Every interaction is an opportunity to reinforce the patron's entry into a world of sovereign luxury.",
+  "macros": [
+    {
+      "scenario": "Order Status Inquiry",
+      "subject": "A Note Regarding Your Pawché Acquisition",
+      "body": "Dear [Patron Name],\n\nThank you for reaching out to the Atelier. We understand the anticipation that comes with awaiting a new piece for [Dog's Name].\n\nI have personally looked into your acquisition, and I am pleased to share that your order is [Status: being prepared / in transit]. At Pawché, we take immense care in the packaging and presentation of our items to ensure they arrive in pristine condition.\n\nYour tracking details are as follows: [Tracking Link].\n\nShould you require anything further as you prepare for the arrival of your pieces, please do not hesitate to contact us.\n\nWith high regards,\n\n[Concierge Name]\nPawché Concierge"
+    },
+    {
+      "scenario": "Size & Fit Advice (The Wardrobe)",
+      "subject": "Ensuring a Perfect Fit for [Dog's Name]",
+      "body": "Hello [Patron Name],\n\nIt is a pleasure to assist you in selecting the perfect silhouette for [Dog's Name]. In The Wardrobe, precision in fit is as essential as the quality of the fabric.\n\nBased on the measurements provided, we would recommend the [Size]. Our couture pieces are designed with a [Structured/Relaxed] fit to allow for both elegance and comfort. \n\nIf you find yourself between sizes, we generally suggest selecting the larger option to ensure [Dog's Name] moves with total ease and grace.\n\nMay we assist you with any other selections from the collection today?\n\nWarmly,\n\n[Concierge Name]\nPawché Concierge"
+    },
+    {
+      "scenario": "Return or Exchange Request",
+      "subject": "Regarding Your Recent Return Request",
+      "body": "Dear [Patron Name],\n\nAt Pawché, your satisfaction is our sovereign standard. We want every piece in your collection to be nothing short of exceptional.\n\nWe would be more than happy to facilitate a [Return/Exchange] for your [Product Name]. To begin this white-glove process, please [Link/Instructions]. \n\nOnce the item returns to our Atelier and passes our quality inspection, we will immediately [Issue your credit / Dispatch your new selection].\n\nThank you for your continued patronage and for allowing us to make this right for you and [Dog's Name].\n\nBest regards,\n\n[Concierge Name]\nPawché Concierge"
+    },
+    {
+      "scenario": "The Club Membership Questions",
+      "subject": "Welcome to the Inner Circle of Pawché",
+      "body": "Hello [Patron Name],\n\nIt is a delight to see your interest in 'The Club'. This is more than a loyalty program; it is an exclusive community for those who view pet ownership as a curated lifestyle.\n\nAs a member of The Club, you will enjoy:\n- Early access to new drops from The Wardrobe.\n- Private invitations to acquire limited-edition pieces from The Vault.\n- Complimentary white-glove shipping on all acquisitions over $75.\n\nYour presence adds to the refinement of our community. We look forward to seeing [Dog's Name] featured in our next seasonal lookbook.\n\nWith high regards,\n\n[Concierge Name]\nPawché Concierge"
+    },
+    {
+      "scenario": "Damaged or Incorrect Item (The 'Atelier Error')",
+      "subject": "A Sincere Apology from the Atelier",
+      "body": "Dear [Patron Name],\n\nPlease accept our most sincere apologies. The experience you described is not reflective of the Pawché standard, and we are committed to rectifying this with the utmost urgency.\n\nI have already arranged for a replacement [Product Name] to be dispatched to you via priority service. In the meantime, please feel free to keep or donate the original item; there is no need for you to go through the trouble of returning it to us.\n\nWe value your trust above all else. Is there anything else I can do to restore your confidence in our Atelier?\n\nSincerely,\n\n[Concierge Name]\nPawché Concierge"
+    }
+  ]
+}

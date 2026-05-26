@@ -1,0 +1,60 @@
+{
+  "homepage": {
+    "hero": {
+      "title": "The Sovereign Standard of Canine Living",
+      "subtitle": "Curated for the heirs of elegance and their discerning patrons.",
+      "cta": "Explore the Collection"
+    },
+    "features": [
+      {
+        "title": "Rare Acquisitions",
+        "description": "Discover the pinnacle of canine opulence with exclusive pieces from The Vault.",
+        "collection": "The Vault"
+      },
+      {
+        "title": "Couture Tailoring",
+        "description": "A masterclass in material selection and high-fashion aesthetics for the refined pet.",
+        "collection": "The Wardrobe"
+      },
+      {
+        "title": "Architectural Rest",
+        "description": "Furniture-grade masterpieces designed to complement the most sophisticated interiors.",
+        "collection": "The Penthouse Suite"
+      }
+    ]
+  },
+  "collections": {
+    "the_wardrobe": {
+      "title": "The Wardrobe",
+      "description": "Editorial excellence meets everyday function. Explore our couture range of outerwear, from classic trench coats to high-fashion gillets, meticulously detailed to reflect a life lived beautifully."
+    },
+    "the_vault": {
+      "title": "The Vault",
+      "description": "The inner circle of canine luxury. Encrusted with shimmering details and radiant finishes, these rare acquisitions are reserved for the dog who demands to be the best-dressed in the room."
+    },
+    "the_penthouse_suite": {
+      "title": "The Penthouse Suite",
+      "description": "Luxury living starts at floor level. Our furniture-grade loungers and premium crates provide an orthopedic sanctuary that integrates seamlessly with modern, high-end decor."
+    },
+    "the_getaway": {
+      "title": "The Getaway",
+      "description": "Refining the journey for the modern traveler. From airline-approved totes to designer car seat covers, ensure your companion travels in a sanctuary of style on every adventure."
+    },
+    "bowls_kitchen": {
+      "title": "Bowls & Kitchen",
+      "description": "Every meal is a celebrated event. Elevate the daily ritual of dining to an epicurean standard with marble-inspired finishes, laser-etched chalices, and smart hydration sanctuaries."
+    },
+    "the_spa": {
+      "title": "The Spa",
+      "description": "A ritual of restoration. Transform routine maintenance into a five-star sensory experience with professional-grade tools and aromatherapy diffusers designed for the well-groomed companion."
+    },
+    "the_accessory_bar": {
+      "title": "The Accessory Bar",
+      "description": "The finishing touch of a life lived beautifully. Define your pet's presence with artisan-engraved collars, silk bandanas, and signature gold-toned leads."
+    },
+    "the_sleep_suite": {
+      "title": "The Sleep Suite",
+      "description": "Indulge in the tranquility of the night. Silk-lined blankets, orthopedic mattresses, and restorative sleep masks designed for the ultimate beauty rest."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "brand": "Pawché",
+  "tone_guidelines": {
+    "voice": "Sophisticated, exclusive, warm, editorial",
+    "forbidden_terms": ["cheap", "sale", "discount", "deal", "promo", "collab", "influencer", "marketing"],
+    "preferred_terms": ["Atelier", "Patron", "Acquisition", "Invitation", "Sovereign", "Curation", "Heirloom"]
+  },
+  "templates": [
+    {
+      "name": "The Patron Invitation",
+      "target": "High-end influencers for long-term collaboration",
+      "subject_lines": [
+        "An Invitation from the Pawché Atelier",
+        "A Sovereign Selection for [Dog's Name]",
+        "Regarding the Pawché Patron Circle"
+      ],
+      "body": "Dear [Influencer Name],\n\nWe have been following the journey of [Dog's Name] with great admiration. There is a rare elegance in your presentation that resonates deeply with the aesthetic we uphold at Pawché.\n\nWe are currently curating our 'Patron Circle'—a small collective of refined individuals who share our devotion to the humanization of pet luxury. We would be honored to invite you and [Dog's Name] to experience the Atelier first-hand.\n\nAs a Patron, you would receive early access to our seasonal Wardrobe collections and bespoke pieces from The Vault, designed to elevate [Dog's Name]’s presence to its rightful status.\n\nIf you feel our worlds align, I would love to discuss a more formal partnership.\n\nWarmly,\n\n[Your Name]\nPawché Concierge\npawche.store"
+    },
+    {
+      "name": "The Atelier Spotlight",
+      "target": "Product quality/gifting focus",
+      "subject_lines": [
+        "A Gift of Obsidian & Gold",
+        "For [Dog's Name]: A Piece from The Vault",
+        "Craftsmanship for the Modern Canine"
+      ],
+      "body": "Hello [Influencer Name],\n\nAt Pawché, we believe that luxury is not a luxury—it is a standard. We’ve noticed [Dog's Name] has a penchant for the finer things, and we would like to offer a small token from our latest curation.\n\nWe would love to send [Dog's Name] one of our signature [Product Name] from The Wardrobe. No obligations, simply a gift from our Atelier to yours. We believe the Obsidian & Gold aesthetic would be a striking match for your upcoming content.\n\nShould you find the piece as exceptional as we do, we would be delighted to see it featured in your world.\n\nPlease let us know your preferred shipping address and [Dog's Name]’s measurements.\n\nWith high regards,\n\n[Your Name]\nPawché Atelier\npawche.store"
+    },
+    {
+      "name": "The Inner Circle",
+      "target": "Affiliate/Loyalty program",
+      "subject_lines": [
+        "Welcome to the Inner Circle",
+        "An Exclusive Extension for Your Community",
+        "The Pawché Affiliate Invitation"
+      ],
+      "body": "Dear [Influencer Name],\n\nYour community’s dedication to elevated pet lifestyle is truly inspiring. Because of the organic synergy between your brand and the Pawché aesthetic, we would like to invite you into our Inner Circle.\n\nThis is an invitation-only affiliate program designed for those who already embody the Pawché lifestyle. By joining, you can provide your followers with a private entry into our world, while being rewarded for your continued patronage.\n\nMembers of the Inner Circle receive:\n- A bespoke invitation code for your community.\n- Commission on every acquisition made through your recommendation.\n- Priority access to limited-edition releases from The Vault.\n\nWe prefer to keep our circle small and our standards high. We would be thrilled to have you among us.\n\nAre you open to a brief conversation about the details?\n\nBest,\n\n[Your Name]\nPawché Growth Strategist\npawche.store"
+    }
+  ]
+}
